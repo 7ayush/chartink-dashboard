@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# SECRETS
+.env
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Typescript
+tsconfig.json
+*.tsbuildinfo
+
+# Webpack
+dist/
+.cache/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+package-lock.json
